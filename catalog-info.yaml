@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-service17"
+  description: "test-service17"
+  annotations:
+    github.com/project-slug: ravi1234567891/test17
+    backstage.io/techdocs-ref: url:https://github.com/ravi1234567891/test17
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "ravikumar"

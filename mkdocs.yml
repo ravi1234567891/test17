@@ -1,0 +1,8 @@
+site_name: "test-service17"
+site_description: "test-service17"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
